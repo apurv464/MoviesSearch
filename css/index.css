@@ -90,7 +90,7 @@ input {
 
 #super-container {
   background-color: #fff;
-  background-image: url(/images/MoviePage);
+  background-image: url("HomePage.png");
   background-size: cover;
 }
 
